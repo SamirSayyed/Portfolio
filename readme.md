@@ -5,4 +5,4 @@ This is my portfolio
 Desiging
 Development
 UI
-FrontEnd
+Frontend
